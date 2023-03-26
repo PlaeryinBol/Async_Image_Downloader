@@ -1,0 +1,7 @@
+2023-03-24 11:24:45,178: INFO - Mode: async
+2023-03-24 11:24:45,557: INFO - Downloaded: https://as2.ftcdn.net/jpg/02/15/40/93/500_F_215409363_ufqzRMO91ie9VjjFCmHbJK59siAKWBqH.jpg
+2023-03-24 11:24:45,597: ERROR - http://d1hw6n3yxknhky.cloudfront.net/040171761_prevstill.jpeg: Cannot connect to host d1hw6n3yxknhky.cloudfront.net:443 ssl:default [Connection reset by peer]
+2023-03-24 11:24:45,648: INFO - Downloaded: https://images.pond5.com/stylish-design-diwali-illustration-054739138_iconl.jpeg
+2023-03-24 11:24:45,672: INFO - Downloaded: http://d3thflcq1yqzn0.cloudfront.net/033760340_prevstill.jpeg
+2023-03-24 11:24:45,672: INFO - Elapsed time: 0.4891963005065918
+2023-03-24 11:24:45,673: INFO - 3 downloaded images in output folder
